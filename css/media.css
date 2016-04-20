@@ -1,0 +1,1024 @@
+
+
+@media only screen and (max-width : 1200px) {
+ 
+  header 
+  {
+    text-align: center;
+  }
+
+  header .bottom .menu ul
+  {
+    float: left;
+    width: 100%;
+  }
+
+  header .bottom .techn
+  {
+  	padding-bottom: 50px;
+    float: none;
+  }
+
+  .price-order
+  {
+    text-align: center;
+  }
+
+   .price-order .left
+   {
+    text-align: center;
+   }
+
+ .price-order .left .our-prices 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+   .price-order .right
+   {
+    padding-top: 50px;
+   }
+
+  
+  .price-order .right .leave
+  {
+    padding-right: 20px;
+  }
+
+  .price-order .right .zayavka
+  {
+  	float: left;
+  	margin-left: 278px;
+  }
+
+  .services .new span.title
+  {
+    display: block;
+  }
+
+  .services .new ul
+  {
+    margin-bottom: 30px;
+  }
+
+
+  .about .icon-block .inner-block .top-inner, .about .icon-block .inner-block .bot-inner
+  {
+  	padding-top: 13px;
+  	padding-bottom: 13px;
+  }
+
+  .about .icon-block .inner-block .top-inner span, .about .icon-block .inner-block .bot-inner
+  {
+  	display: inline-block;
+  	
+  }
+
+
+.about .icons-space .icon-block .inner-block .top-inner.four-three:before, .about .icons-space .icon-block .inner-block .top-inner.four-seven:before,
+.about .icons-space .icon-block .inner-block .bot-inner.four-four:before, .about .icons-space .icon-block .inner-block .bot-inner.four-eight:before
+ {
+ 	display: none;
+ }
+
+.about .icons-space .icon-block .inner-block .bot-inner.four-four
+{
+  margin-top: 22px;
+}
+
+.about .icons-space .icon-block.rightyb
+{
+  padding-top: 40px;
+}
+
+.about .products, .sixth .prices, .portfolio-block .exems
+{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+
+}
+
+.sixth .prices .order-but a:before
+{
+	left:88px;
+}
+
+.sixth .prices .showAll a:after
+{
+	right: 40px;
+}
+
+
+
+.portfolio-block .exems
+{
+	-webkit-flex-wrap:wrap;
+	    -ms-flex-wrap:wrap;
+	        flex-wrap:wrap;
+}
+
+.pay-methods .methods
+{
+  padding-bottom: 0px;
+}
+
+.pay-methods .method
+{
+  padding-bottom: 50px;
+}
+
+.pay-methods .method span.meth-descr
+{
+  width: 50%;
+}
+
+.pay-methods .attention
+{
+  width: 60%;
+}
+
+.aboutus .ouradvantages .side .advantage
+{
+  width: auto;
+}
+
+.reasons .reasones-vk
+{
+  width: auto;
+}
+.reasons .reasones-vk span
+{
+  width: auto;
+  padding-top: 20px;
+}
+
+
+.prices-zone .price-type
+{
+  width: 30%;
+  margin: 15 15px;
+}
+
+.top-price .top-price-text:after
+{
+  display: none;
+}
+
+.news-blog .span-wrap
+{
+  width: auto;
+}
+
+.news-blog .news-section
+{
+  width: 100%;
+}
+
+.news-social
+{
+  width:50%;
+  margin-left: 25%;
+}
+
+.news-blog
+{
+  padding-bottom: 20px;
+}
+
+.banner-space
+{
+  width: 100%;
+}
+}
+
+
+
+@media only screen and (max-width : 992px) {
+
+
+header{
+  text-align: center;
+}
+
+header .logo, header .circle, header .text
+{
+  width:33%;
+  padding-bottom: 20px;
+}
+
+header .circle
+{
+  padding-left: 30px;
+}
+
+header .top .social 
+{
+  padding-left: 0 ;
+}
+
+header .bottom .menu ul li
+{
+  padding: 30px 15px 30px 38px
+}
+
+header .bottom .menu ul li:hover
+{
+  border-top: 5px solid transparent;
+}
+
+header .bottom .techn
+{
+  float: none;
+
+}
+
+.price-order .right .leave
+{
+    padding-right: 30px;
+}
+
+.price-order .right .zayavka
+{
+  float:none;
+  margin-left: 15%;
+  width: 70%;
+}
+
+
+
+.price-order .right .zayavka button:before
+{
+  left:140px;
+}
+
+
+
+.price-order .right .zayavka a:before
+{
+  left: 80px;
+}
+
+.about .icons-space .icon-block .inner-block .bot-inner.four-eight
+{
+  margin-top: 10px;
+}
+
+.sixth .prices .order-but a:before
+{
+  left: 50px;
+}
+
+.sixth .prices .showAll a:after {
+    right: 5px;
+}
+
+.trust-top .owl-carousel .owl-nav .owl-prev
+{
+  left: -40px;
+}
+
+  .requirements .text
+{
+  width: 90%;
+}
+
+.requirements .attention-text
+{
+  width: auto;
+}
+
+ .trustment .fifth-quote, .aboutus .fifth-quote, .trust-top .fifth-quote
+{
+  width: auto;
+}
+
+.trust-top .owl-carousel .owl-nav .owl-next
+{
+  right: -40px;
+}
+
+footer .foot-menu .services-menu
+{
+  width: 40%;
+}
+footer .foot-menu .contacts, footer .foot-menu .info{
+  width: 60%;
+      padding-left: 30px;
+  } 
+
+.pay-methods .method span.meth-descr
+{
+  width: 80%;
+}
+
+.pay-methods .attention
+{
+  width: auto;
+}
+
+footer .foot-menu .info ul {
+  margin-bottom: 0px;
+}
+
+footer .foot-menu .info .callback{
+  padding-top: 20px;
+  text-align: left;
+}
+
+footer .foot-menu .info .callback a:before
+{
+  left: 13.5px;
+}
+
+footer .foot-menu .info .callback a {
+    text-align: left;
+    width: auto;
+    padding: 10px 8px 10px 36px;
+  }
+
+  .aboutus .ouradvantages 
+  {
+    text-align: center;
+  }
+
+.aboutus .ouradvantages .side
+{
+  text-align: center;
+}
+
+.aboutus .ouradvantages .center-image .fav-image
+{
+  display: inline-block;
+}
+
+.aboutus .ouradvantages .side .advantage.ic-5, .aboutus .ouradvantages .side .advantage.ic-6, .aboutus .ouradvantages .side .advantage.ic-7, .aboutus .ouradvantages .side .advantage.ic-8
+{
+  margin-left: 0px;
+}
+
+.aboutus .ouradvantages .center-image .fav-text
+{
+  padding-bottom: 20px;
+}
+
+ .reasons .reasones-vk
+  {
+    margin-top: 20px;
+  }
+
+.reasons .powers span.pow, span.bot-pow
+{
+  height: 50px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.reasons .powers span.bot-pow
+{
+  width: 100%;
+  margin-top: 0px;
+  float: auto;
+}
+
+.reasons .powers span.center-bot-pow
+{
+  height: 50px;
+  margin-top: 0px;
+  width: 100%;
+  margin-bottom: 20px;
+}	
+
+.poly-type{
+  width: 50%;
+  margin-left: 25%;
+}
+
+.prices-zone .price-type
+{
+      width: 28%;
+    margin: 15px 17px;
+}
+
+.news-social .banner
+{
+  height: 550px;
+  padding-top: 20px;
+}
+
+
+}
+
+@media only screen and (max-width : 768px) {
+	
+	header .top .logo
+  {
+    width: 100%;
+  }
+	
+  header .top .circle, header .top .text
+  {
+    width: 50%;
+  }
+
+  header .top .circle
+  {
+    display: none;
+    
+  }
+
+  header .top .circle .circle-inner:before 
+  {
+    display: none;
+  }
+
+  header .top .text
+  {
+      display: none;
+  }
+
+  header button#menu_open
+  {
+    display: inline-block;
+  }
+
+header .bottom .menu{
+  display: none;
+}
+
+  header .bottom .menu ul li
+  {
+    width: 100%;
+  }
+
+  .price-order .left span.geometria
+  {
+    font-size: 30px;
+  }
+
+  .price-order .right .zayavka button:before
+  {
+    left: 95px;
+  }
+
+  .price-order .right .zayavka a:before
+  {
+    left:15px;
+  }
+
+  .video .video-wrapper
+  {
+    width: 100%;
+  }
+
+  .video .video-wrapper:after
+  {
+    display: none;
+  }
+
+  .sixth .icons .descr
+  {
+    width: 30%;
+    padding-bottom: 30px;
+  }
+
+ .sixth .prices .order-but a:before
+  {
+    left:30px;
+  }
+
+  .about .icons-space .icon-block .inner-block .bot-inner.four-six
+  {
+    margin-top: 20px;
+  }
+
+  .about .products
+  {
+    display: flex;
+    flex-direction: column;
+    
+
+  }
+
+
+
+  .about .products .product
+  {
+    width: 50%;
+    margin-left: 25%;
+  }
+
+ 
+
+  .trust-top .owl-carousel .owl-nav .owl-prev
+  {
+    left:-35px;
+  }
+
+   .trust-top .owl-carousel .owl-nav .owl-next
+  {
+    right:-35px;
+  }
+
+  .trust-bottom span.actText
+  {
+    width: auto;
+  }
+
+
+
+  .reasons .reasones-vk a
+  {
+    float: none;
+    display: inline-block;
+  }
+  
+  .reasons .reasones-vk span
+  {
+    float: none;
+  }
+
+  .trustment  .owl-carousel .owl-nav .owl-prev
+{
+  left:-30px;
+}
+
+.trustment  .owl-carousel .owl-nav .owl-next
+{
+  right: -30px;
+}
+
+.owl-carousel-port .owl-nav .owl-prev
+{
+  position: absolute;
+  left:-10px;
+
+}
+
+.owl-carousel-port .owl-nav .owl-next
+{
+  position: absolute;
+  right: -10px;
+
+}
+
+.portfolio-top h2.white:after
+{
+  display: none;
+}
+
+.prices-zone .price-type
+{
+  width: 45%;
+  margin: 11 11px;
+}
+  
+.top-price .top-price-text span.red-bg 
+{
+  margin-top: 10px;
+  margin-left: 0px;
+}
+
+.news-blog .calendar-text
+{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.post .post-text
+{
+  width: auto;
+  padding-left: 0px;
+  padding-top: 10px;
+}
+
+.news-social .social
+{
+  max-width: 240px;
+}
+
+.news-social .banner
+{
+  height: 400px;
+  width: 90%;
+  margin-left: 5%;
+}
+
+}
+
+@media only screen and (max-width : 480px) {
+
+h2
+{
+  font-size: 20px;
+}
+	
+header .top .social 
+{
+ 
+  float: none;
+  padding-top: 20px;
+  max-width: 220px;
+}
+
+header .top .phones
+{
+  float: none;
+  padding-top: 20px;
+}
+
+header .top .phones span
+{
+  text-align: center;
+}
+
+header .top .social .icon a:hover:before
+{
+  
+display: none;
+}
+
+header .bottom .techn 
+{
+  text-align: center;
+}
+
+header .bottom .techn a:before
+{
+  display: none;
+}
+
+.price-order .left span.geometria
+{
+  font-size: 20px;
+}
+
+.price-order .right .zayavka
+{
+  width: 95%;
+  margin-left: 0;
+}
+
+
+.price-order .right .zayavka button:before
+{
+  left: 40px;
+}
+
+.price-order .right .zayavka a
+{
+      padding: 15px 10px 15px 35px;
+}
+
+
+.price-order .right .zayavka a:before 
+{
+  left: 5px;
+}
+
+.price-order .left .our-prices span.gray
+{
+  width: 200px;
+  font-size: 14px;
+}
+
+
+.price-order .left .our-prices span.white
+{
+  font-size: 28px;
+}
+
+.price-order .left .our-prices span.red
+{
+  font-size: 28px;
+}
+
+.services
+{
+  padding: 50px 0;
+}
+
+
+.requirements
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.requirements .quote, .fifth .fifth-quote, .aboutus .quote, .services-space .quote
+{
+  padding-top: 50px;
+  font-size: 18px;
+}
+
+
+.requirements .quote span.txt:before, .aboutus .quote span.txt:before, .services-space .quote span.txt:before
+{
+  display: none;
+}
+
+.requirements .quote span.txt:after, .aboutus .quote span.txt:after, .services-space .quote span.txt:after 
+{
+  display: none;
+}
+
+
+.trust-top .fifth-quote span.top-q:before, .trustment .fifth-quote span.top-q:before, .aboutus .fifth-quote span.top-q:before
+{
+  display: none;
+}
+
+.trust-top .fifth-quote span.bot-q:after, .trustment .fifth-quote span.bot-q:after, .aboutus .fifth-quote span.bot-q:after 
+{
+  display: none;
+}
+
+.trust-top .owl-carousel .owl-nav .owl-prev
+{
+  left: -20px;
+}
+
+.trust-top .owl-carousel .owl-nav .owl-next
+{
+  right: -20px;
+}
+
+.sixth .icons .descr
+{
+  width: 48%;
+}
+
+.sixth .icons .descr.fifthh
+{
+  margin-top: 10px;
+}
+
+.sixth .showAll a
+{
+      padding: 15px 40px 15px 20px;
+
+}
+
+.sixth .showAll a:after 
+{
+  right: 20px;
+}
+
+
+
+.sixth span.callit 
+{
+  margin-left: 12.5%;
+  width: 75%;
+}
+
+.portfolio-block 
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.portfolio-block .exems .extra-small
+{
+  width: 100%;
+}
+
+.portfolio-block .exems
+{
+  padding-bottom: 0px;
+  padding-top: 50px;
+}
+
+.portfolio-block .elink a.but
+{
+  font-size: 15px;
+}
+
+.portfolio-block .showAllE
+{
+  margin-left: 0px;
+}
+
+.pay-methods {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.pay-methods .method span.meth-descr
+{
+  width: 75%;
+}
+
+.about
+{
+  padding-top: 50px;
+}
+
+.about .link
+{
+  padding-bottom: 50px;
+}
+
+.about .icons-space
+{
+  padding-top: 50px;
+}
+
+.about .products .product{
+  width: 90%;
+  margin-left: 5%;
+}
+
+.about .icons-space .icon-block .inner-block.extra-small
+{
+  width: 100%;
+}
+
+.about .icons-space .icon-block .inner-block .top-inner
+{
+  margin-bottom: 0px;
+}
+.about .icons-space .icon-block.rightyb
+{
+  padding-top: 0px;
+}
+
+footer .foot-menu 
+{
+  text-align: center;
+}
+
+footer .foot-menu span.foot-title
+{
+  margin-bottom: 20px;
+}
+
+footer .foot-menu .info, footer .foot-menu .services-menu, footer .foot-menu .contacts, footer .foot-menu .social-foot
+{
+  width: 100%;
+  padding-left: 0;
+  
+}
+
+footer .foot-menu .info ul, footer .foot-menu .services-menu ul
+{
+  background: none;
+  padding-left: 0;
+}
+
+footer .foot-menu .info .callback
+{
+  text-align: center;
+}
+
+
+
+footer .foot-menu .contacts span.contact-descr:after
+{
+  display: none;
+}
+
+
+
+footer .foot-menu .social-foot .soc-icons
+{
+  float:none;
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+footer .foot-menu .social-foot .foot-logo
+{
+  margin-bottom: 20px;
+}
+
+footer .foot-menu .social-foot .copyright
+{
+  margin-bottom: 30px;
+}
+
+
+footer .foot-menu .social-foot .soc-icons .sicon a:hover:before
+{
+  display: none;
+}
+
+.aboutus
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+
+.aboutus .ouradvantages .center-image .fav-image
+{
+  width: 100%;
+}
+
+.aboutus .ouradvantages .side
+{
+  text-align: left;
+}
+
+.reasons 
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.reasons .powers span.pow, span.bot-pow
+{
+  
+ height: auto;
+}
+
+.reasons .powers span.center-bot-pow
+{
+  height: auto;
+}
+
+.reasons .reasones-vk span
+{
+  text-align: center;
+  padding-left: 0px;
+}
+
+  .trustment  .owl-carousel .owl-nav .owl-prev
+{
+  left:-15px;
+}
+
+.trustment  .owl-carousel .owl-nav .owl-next
+{
+  right: -15px;
+}
+
+
+.portfolio-top
+{
+  padding: 20px 0;
+}
+
+.poly-type
+{
+  width: 80%;
+  margin-left: 10%;
+}
+
+.portfolio-social .ps-title span, .ps-title-news span
+{
+  font-size: 18px;
+}
+
+.portfolio-social, .polygraphy, .souvenirs, .cartons, .commercial
+{
+  padding: 50px 0;
+}
+
+.prices-zone .price-type
+{
+  width: 90%;
+  margin: 15px 15px;
+}
+
+.prices-zone
+{
+  padding-top: 10px;
+}
+
+.prices-block span.phone-numb:before
+{
+  display: none;
+}
+
+.prices-block
+{
+  padding-top: 50px;
+}
+
+.news-blog
+{
+  padding-top: 50px;
+}
+
+.news-social
+{
+  width: 90%;
+  margin-left: 5%;
+}
+
+
+.banner-space
+{
+  padding-bottom: 30px;
+}
+
+}
+
+}

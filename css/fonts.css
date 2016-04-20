@@ -1,0 +1,56 @@
+@font-face{
+  font-family: "AgoraRegular";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/AgoraRegular.WOFF") format("woff");
+}
+
+@font-face{
+  font-family: "AgoraBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/AgoraBold.WOFF") format("woff");
+}
+
+@font-face{
+  font-family: "AgoraLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/AgoraLight.WOFF") format("woff");
+}
+
+@font-face{
+  font-family: "AgoraMedium";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/AgoraMedium.woff") format("woff");
+}
+
+@font-face{
+  font-family: "AgoraMediumItal";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/AgoraMediumItal.WOFF") format("woff");
+}
+
+@font-face{
+  font-family: "AgoraLightItal";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/AgoraLightItal.WOFF") format("woff");
+}
+
+
+@font-face{
+   font-family: "GeometriaExtraBlack";
+   font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/GeometriaExtraBlack.woff") format("woff");
+}
+
+@font-face{
+   font-family: "GeometriaBold";
+   font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/GeometriaBold.woff") format("woff");
+}
